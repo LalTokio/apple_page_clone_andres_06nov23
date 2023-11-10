@@ -43,11 +43,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Arístides José Molina Pérez**
+👤 **Andres Garcia**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@LalTokio](https://github.com/LalTokio)
+- LinkedIn: [LinkedIn]()
 
 ## 🤝 Contributing
 
