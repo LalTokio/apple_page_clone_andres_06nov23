@@ -46,7 +46,6 @@ To get a local copy up and running follow these simple example steps.
 👤 **Andres Garcia**
 
 - GitHub: [@LalTokio](https://github.com/LalTokio)
-- LinkedIn: [LinkedIn]()
 
 ## 🤝 Contributing
 
